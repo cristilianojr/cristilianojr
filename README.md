@@ -9,7 +9,7 @@
 <h2 align="left" >Linguagens de programação ✅</h2>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="48px" height="48px" /> </a> 
 
-<h2 align="left" >Linguagens de programação 🎓📚</h2>
+<h2 align="left" >Aprendendo Sobre 🎓📚</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/></a> 
 <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"  width="48" height="48"/></a> 
 
