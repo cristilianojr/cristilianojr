@@ -1,9 +1,9 @@
 <h1 align="center">Cristiliano Júnior</h1>
 <h2 align="left">Informações</h2>
 
-<img src="https://cdn.discordapp.com/attachments/836607089794482237/851212552917614612/pin.png" width="20px" height="20px">  João Pessoa, PB
+<img src="https://cdn-icons-png.flaticon.com/512/4219/4219585.png" width="20px" height="20px">  João Pessoa, PB
 
-<a href="mail: cristilianojunior@gmail.com"><img src="https://cdn.discordapp.com/attachments/836607089794482237/851213377204387860/email.png" width="20px" height="20px">  cristilianojunior@gmail.com</a>
+<a href="mail: cristilianojunior@gmail.com"><img src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="30px" height="20px">  cristilianojunior@gmail.com</a>
 
 <hr>
 <h2 align="left" >Linguagens de programação ✅</h2>
