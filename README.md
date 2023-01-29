@@ -26,6 +26,7 @@
 <hr>
 <h2 align="left" >Banco de Dados</h2>
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="48" height="48"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="96" height="48"/> </a> 
 
 <hr>
 <h2 align="left" >Edição de Imagem e Vídeo</h2>
