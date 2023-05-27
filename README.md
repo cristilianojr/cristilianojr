@@ -8,9 +8,9 @@
 <hr>
 <h2 align="left" >Linguagens de programação ✅</h2>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="48px" height="48px" /> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/></a> 
 
 <h2 align="left" >Aprendendo Sobre 🎓📚</h2>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/></a> 
 <a href="https://www.php.net/" target="_blank"> <img src="https://php-cl.com/img/CORE-PHP-BASICS-20210817.png"  width="48" height="48"/></a> 
 
 <hr>
