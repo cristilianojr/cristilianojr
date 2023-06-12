@@ -18,7 +18,7 @@
 <h2 align="left" >Frameworks</h2>
 <a href="https://kivy.org/#home" target="_blank"> <img src="https://kivy.org/logos/kivy-logo-black-64.png" width='48'height='48' /> </a> 
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width='58'height='48' /></a>
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" width='48'height='48' /> </a> 
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" width='96'height='48' style=" filter: brightness(100);" /> </a> 
 
 
 <hr>
