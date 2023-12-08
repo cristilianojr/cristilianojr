@@ -35,7 +35,8 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="96" height="48"/> </a> 
 
 <hr>
-<h2 align="left" >Edição de Imagem e Vídeo</h2>
-<a align="center"href="https://www.adobe.com/br/products/photoshop/" target="_blank" > <img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png"  width="48" height="48"/></a> 
-<a align="center"href="https://www.coreldraw.com/br/product/coreldraw/" target="_blank" > <img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2022/icon-coreldraw.png"  width="48" height="48"/></a> 
+<h2 align="left" >Edição de Imagem e Prototipação</h2>
+<a align="center" href="https://www.adobe.com/br/products/photoshop/" target="_blank" > <img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png"  width="48" height="48"/></a> 
+<a align="center" href="https://www.coreldraw.com/br/product/coreldraw/" target="_blank" > <img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2022/icon-coreldraw.png"  width="48" height="48"/></a> 
+<a align="center" href="https://www.figma.com/" target="_blank" > <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png"  width="48" height="48"/></a> 
 <hr>
